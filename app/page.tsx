@@ -1,4 +1,3 @@
-import Hero from '../components/hero'
 
 export default function Home() {
   return (
@@ -7,7 +6,6 @@ export default function Home() {
         <title>Bella Cris Beauty Studio</title>
         <meta name='description' content='In development'/>
       </head>
-    <Hero />
     </main>
   )
 }
